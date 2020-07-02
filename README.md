@@ -20,22 +20,22 @@ Course 1:
 
 Course 2:
 
-1. [Initialization, regularization, gradient checking]()
-2. [Optimization methods: mini-batch GD, Momentum, Adam]()
-3. [TensorFlow tutorial]()
+1. [Initialization, regularization, gradient checking](https://github.com/Sonia-96/Deep_Learning/tree/master/Course2-Improve%20Deep%20NN/Week1%20-%20Practical%20Aspects%20of%20DL)
+2. [Optimization methods: mini-batch GD, Momentum, Adam](https://github.com/Sonia-96/Deep_Learning/blob/master/Course2-Improve%20Deep%20NN/Week2%20-%20Optimization%20Algorithms/Optimization%20Methods.ipynb)
+3. [TensorFlow tutorial](https://github.com/Sonia-96/Deep_Learning/blob/master/Course2-Improve%20Deep%20NN/Week3%20-%20Tensorflow%20Tutorial/A%20Classifier%20Recognizing%20Numbers%20in%20Sign%20(%2B%20TensorFlow%20Tutorial).ipynb)
 
 Course 4:
 
-1. [Build a Convolutional Neural Network]()
-2. [Keras tutorial]()
+1. [Build a Convolutional Neural Network](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week1%20-%20Convalutional%20Neural%20Networks/Convolutional%20Neural%20Networks.ipynb)
+2. [Keras tutorial](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week2%20-%20Deep%20Convolutional%20Models/Keras%20Tutorial/A%20Classifier%20Recognizing%20Smiling%20Faces%20(%2B%20Keras%20Tutorial).ipynb)
 
 Course 5:
 
-1. [Build a Recurrent Neural Network]()
+1. [Build a Recurrent Neural Network](https://github.com/Sonia-96/Deep_Learning/tree/master/Course5-Recurrent%20Neural%20Networks/Week1-RNN/Building%20a%20RNN)
 2. [Word embeddings and debiasing]()
 
 ## Projects
-1. [Planar data classification with one didden layer](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week3%20-%20Planar%20Data%20Classification%20with%20One%20Hidden%20Layer/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
+#### 1. [Planar data classification with one didden layer](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week3%20-%20Planar%20Data%20Classification%20with%20One%20Hidden%20Layer/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
   
   Implement a binary classification neural network with one hidden layer. This model can classify red points and blue points in the same image with accuracy more than 90%.
 
@@ -48,24 +48,62 @@ Course 5:
 </td> 
 </table>
 
-2. [A deep neural network classifying cats](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week4%20-%20Deep%20Neural%20Network/A%20Deep%20Neural%20Network%20Classifying%20Cats.ipynb)
+#### 2. [A deep neural network classifying cats](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week4%20-%20Deep%20Neural%20Network/A%20Deep%20Neural%20Network%20Classifying%20Cats.ipynb)
   
-  Build a deep neural network to classifie **cats vs. non-cats** images with accuracy more than 80%.
+Build a deep neural network to classifie **cats vs. non-cats** images with accuracy more than 80%.
 
 ![cats](https://github.com/Sonia-96/Deep_Learning/blob/master/images/cat_recognization.png)
 
-3. [A classifier recognizing numbers 0-5 in sign]()
-  
-  
+#### 3. [A Classifier recognizing smiling faces]()
 
-5. [A ConvNet recognizing numbers in sign language]()
-6. [A Classifier recognizing smiling faces]()
-7. [A ResNet recognizing numbers in sign]()
-8. [Car detection with YOLO algorithm]()
-9. [Neural style transfer]()
-10. [Face recognition]()
-11. [Character level language model - Dinosaurus island]()
-12. [Improvise a jazz solo with an LSTM network]()
-13. [Emojify]()
-14. [Neural machine translation on dates]()
-15. [Trigger word detection]()
+Implement a classifier in Keras. This model can recognize people's faces and classify them as "happy" or "not happy" with accuracy more than 90%.
+
+![face_images](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week2%20-%20Deep%20Convolutional%20Models/Keras%20Tutorial/face_images.png)
+
+#### 4. [A ResNet recognizing numbers in sign](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week2%20-%20Deep%20Convolutional%20Models/ResNets/A%20ResNet%20Recognizing%20Numbers%20in%20Sign.ipynb)
+
+Implement a ResNet in Keras for a classification problem. This model can recognize signs representing numbers from 0 to 5 with accuracy more than 85%.
+
+![hands](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week2%20-%20Deep%20Convolutional%20Models/ResNets/hands.png)
+
+#### 5. [Car detection with YOLO algorithm](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week3%20-%20Object%20Detection/Car%20Detection%20with%20YOLO%20Algorithm.ipynb)
+
+Use YOLO model to detect cars and their positions in images.
+
+![car detection](https://github.com/Sonia-96/Deep_Learning/blob/master/images/car_detection.png)
+
+
+#### 6. [Neural style transfer](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week4%20-%20Face%20Recognization%20%26%20Neural%20Style%20Transfer/Neural%20Style%20Transfer.ipynb)
+
+Implement the Neural Style Transfer algorithm and generate novel artistic images using this algorithm.
+
+![NST](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week4%20-%20Face%20Recognization%20%26%20Neural%20Style%20Transfer/images/louvre_generated.png)
+
+#### 7. [Face recognition](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week4%20-%20Face%20Recognization%20%26%20Neural%20Style%20Transfer/Face%20Recognition.ipynb)
+
+Build a face recognition system to identify a person.
+
+![faces](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week4%20-%20Face%20Recognization%20%26%20Neural%20Style%20Transfer/images/distance_matrix.png)
+
+#### 8. [Character level language model - Dinosaurus island](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/Week1-RNN/Dinosaurus%20Island/Character%20level%20language%20model%20-%20Dinosaurus%20Island.ipynb)
+
+Implement a character level language model which can give names to dinosaurs with cool endings like 'saurus', 'don' etc.
+
+![Mangosaurus](https://github.com/Sonia-96/Deep_Learning/blob/master/images/Magosaurus.png)
+
+
+#### 9. [Improvise a jazz solo with an LSTM network](http://localhost:8888/notebooks/Downloads/Deep%20Learning/Course5/Week1-RNN/Jazz%20Improvisation%20with%20an%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network.ipynb)
+
+Implement a model that uses an LSTM to generate music.
+
+![jazz](https://github.com/Sonia-96/Deep_Learning/blob/master/images/jazz.jpg)
+
+#### 10. [Emojify]()
+
+
+#### 11. [Neural machine translation on dates]()
+
+
+#### 12. [Trigger word detection]()
+
+
