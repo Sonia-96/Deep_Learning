@@ -1,4 +1,4 @@
-# Deep Learning [Certificate](https://coursera.org/share/6b2c36d247f4969bc3c94c296484c96f)
+# Deep Learning [[Certificate]](https://coursera.org/share/6b2c36d247f4969bc3c94c296484c96f)
 A collection of my study notes and projects in the course [**Deep Learning** (taught by Andrew Ng)](https://www.coursera.org/specializations/deep-learning).
 
 ## X-mind:
@@ -35,7 +35,8 @@ Course 5:
 2. [Word embeddings and debiasing]()
 
 ## Projects
-### 1. [Planar data classification with one didden layers](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week3%20-%20Planar%20Data%20Classification%20with%20One%20Hidden%20Layer/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
+1. [Planar data classification with one didden layer](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week3%20-%20Planar%20Data%20Classification%20with%20One%20Hidden%20Layer/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
+  Implement a binary classification neural network with one hidden layer. This model can classify red points and blue points in the same image with accuracy more than 90%.
 
 <table>
 <td> 
@@ -46,7 +47,11 @@ Course 5:
 </td> 
 </table>
 
-3. [A deep neural network classifying cats](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week4%20-%20Deep%20Neural%20Network/A%20Deep%20Neural%20Network%20Classifying%20Cats.ipynb)
+2. [A deep neural network classifying cats](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week4%20-%20Deep%20Neural%20Network/A%20Deep%20Neural%20Network%20Classifying%20Cats.ipynb)
+  Build a deep neural network to classifie **cats vs. non-cats** images with accuracy more than 80%.
+
+<img src="images/cata_recognization.png">
+
 4. [A classifier recognizing numbers 0-5 in sign]()
 5. [A ConvNet recognizing numbers in sign language]()
 6. [A Classifier recognizing smiling faces]()
