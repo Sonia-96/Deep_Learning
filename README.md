@@ -36,16 +36,26 @@ Course 5:
 
 ## Projects
 1. [Planar data classification with one didden layers](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week3%20-%20Planar%20Data%20Classification%20with%20One%20Hidden%20Layer/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
+
+<table>
+<td> 
+<img src="images/data_classification1.png" style="width:500;height:500px;"> <br>
+</td> 
+<td> 
+<img src="images/data_classification2.png" style="width:500;height:500px;"> <br>
+</td> 
+</table>
+
 3. [A deep neural network classifying cats](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week4%20-%20Deep%20Neural%20Network/A%20Deep%20Neural%20Network%20Classifying%20Cats.ipynb)
-4. [A classifier recognizing numbers 0-5 in sign]
-5. [A ConvNet recognizing numbers in sign language]
-6. [A Classifier recognizing smiling faces]
-7. [A ResNet recognizing numbers in sign]
-8. [Car detection with YOLO algorithm]
-9. [Neural style transfer]
-10. [Face recognition]
-11. [Character level language model - Dinosaurus island]
-12. [Improvise a jazz solo with an LSTM network]
-13. [Emojify]
-14. [Neural machine translation on dates]
-15. [Trigger word detection]
+4. [A classifier recognizing numbers 0-5 in sign]()
+5. [A ConvNet recognizing numbers in sign language]()
+6. [A Classifier recognizing smiling faces]()
+7. [A ResNet recognizing numbers in sign]()
+8. [Car detection with YOLO algorithm]()
+9. [Neural style transfer]()
+10. [Face recognition]()
+11. [Character level language model - Dinosaurus island]()
+12. [Improvise a jazz solo with an LSTM network]()
+13. [Emojify]()
+14. [Neural machine translation on dates]()
+15. [Trigger word detection]()
