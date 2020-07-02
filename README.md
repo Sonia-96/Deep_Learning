@@ -36,6 +36,7 @@ Course 5:
 
 ## Projects
 1. [Planar data classification with one didden layer](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week3%20-%20Planar%20Data%20Classification%20with%20One%20Hidden%20Layer/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
+  
   Implement a binary classification neural network with one hidden layer. This model can classify red points and blue points in the same image with accuracy more than 90%.
 
 <table>
@@ -48,11 +49,15 @@ Course 5:
 </table>
 
 2. [A deep neural network classifying cats](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week4%20-%20Deep%20Neural%20Network/A%20Deep%20Neural%20Network%20Classifying%20Cats.ipynb)
+  
   Build a deep neural network to classifie **cats vs. non-cats** images with accuracy more than 80%.
 
-<img src="images/cata_recognization.png">
+![cats](https://github.com/Sonia-96/Deep_Learning/blob/master/images/cat_recognization.png)
 
-4. [A classifier recognizing numbers 0-5 in sign]()
+3. [A classifier recognizing numbers 0-5 in sign]()
+  
+  
+
 5. [A ConvNet recognizing numbers in sign language]()
 6. [A Classifier recognizing smiling faces]()
 7. [A ResNet recognizing numbers in sign]()
