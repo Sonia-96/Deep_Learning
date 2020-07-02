@@ -12,27 +12,25 @@ A collection of my study notes and projects in the course [**Deep Learning** (ta
 
 [Course 5 - Sequence Models](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/5-RNN.xmind)
 
-# Study Notes:
-Course 1:
+## Study Notes:
 
 1. [Logistic regression in Python](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week2%20-%20Logistic%20Regression/Logistic%20Regression%20Classifier%20Recognizing%20Cats.ipynb)
+
 2. [Build a deep neural network](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week4%20-%20Deep%20Neural%20Network/Build%20a%20Deep%20Neural%20Network.ipynb)
 
-Course 2:
+3. [Initialization, regularization, gradient checking](https://github.com/Sonia-96/Deep_Learning/tree/master/Course2-Improve%20Deep%20NN/Week1%20-%20Practical%20Aspects%20of%20DL)
 
-1. [Initialization, regularization, gradient checking](https://github.com/Sonia-96/Deep_Learning/tree/master/Course2-Improve%20Deep%20NN/Week1%20-%20Practical%20Aspects%20of%20DL)
-2. [Optimization methods: mini-batch GD, Momentum, Adam](https://github.com/Sonia-96/Deep_Learning/blob/master/Course2-Improve%20Deep%20NN/Week2%20-%20Optimization%20Algorithms/Optimization%20Methods.ipynb)
-3. [TensorFlow tutorial](https://github.com/Sonia-96/Deep_Learning/blob/master/Course2-Improve%20Deep%20NN/Week3%20-%20Tensorflow%20Tutorial/A%20Classifier%20Recognizing%20Numbers%20in%20Sign%20(%2B%20TensorFlow%20Tutorial).ipynb)
+4. [Optimization methods: mini-batch GD, Momentum, Adam](https://github.com/Sonia-96/Deep_Learning/blob/master/Course2-Improve%20Deep%20NN/Week2%20-%20Optimization%20Algorithms/Optimization%20Methods.ipynb)
 
-Course 4:
+5. [TensorFlow tutorial](https://github.com/Sonia-96/Deep_Learning/blob/master/Course2-Improve%20Deep%20NN/Week3%20-%20Tensorflow%20Tutorial/A%20Classifier%20Recognizing%20Numbers%20in%20Sign%20(%2B%20TensorFlow%20Tutorial).ipynb)
 
-1. [Build a Convolutional Neural Network](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week1%20-%20Convalutional%20Neural%20Networks/Convolutional%20Neural%20Networks.ipynb)
-2. [Keras tutorial](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week2%20-%20Deep%20Convolutional%20Models/Keras%20Tutorial/A%20Classifier%20Recognizing%20Smiling%20Faces%20(%2B%20Keras%20Tutorial).ipynb)
+6. [Build a Convolutional Neural Network](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week1%20-%20Convalutional%20Neural%20Networks/Convolutional%20Neural%20Networks.ipynb)
 
-Course 5:
+7. [Keras tutorial](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week2%20-%20Deep%20Convolutional%20Models/Keras%20Tutorial/A%20Classifier%20Recognizing%20Smiling%20Faces%20(%2B%20Keras%20Tutorial).ipynb)
 
-1. [Build a Recurrent Neural Network](https://github.com/Sonia-96/Deep_Learning/tree/master/Course5-Recurrent%20Neural%20Networks/Week1-RNN/Building%20a%20RNN)
-2. [Word embeddings and debiasing]()
+8. [Build a Recurrent Neural Network](https://github.com/Sonia-96/Deep_Learning/tree/master/Course5-Recurrent%20Neural%20Networks/Week1-RNN/Building%20a%20RNN)
+
+9. [Word embeddings and debiasing](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/Week2-Word%20Embeddings/Operations%20on%20Word%20Vectors/Operations%20on%20Word%20Vectors.ipynb)
 
 ## Projects
 #### 1. [Planar data classification with one didden layer](https://github.com/Sonia-96/Deep_Learning/blob/master/Course1-Neural%20Networks%20%26%20Deep%20Learning/Week3%20-%20Planar%20Data%20Classification%20with%20One%20Hidden%20Layer/Planar%20Data%20Classification%20with%20One%20Hidden%20Layer.ipynb)
@@ -72,7 +70,6 @@ Use YOLO model to detect cars and their positions in images.
 
 ![car detection](https://github.com/Sonia-96/Deep_Learning/blob/master/images/car_detection.png)
 
-
 #### 6. [Neural style transfer](https://github.com/Sonia-96/Deep_Learning/blob/master/Course4-Convolutional%20Neural%20Networks/Week4%20-%20Face%20Recognization%20%26%20Neural%20Style%20Transfer/Neural%20Style%20Transfer.ipynb)
 
 Implement the Neural Style Transfer algorithm and generate novel artistic images using this algorithm.
@@ -98,12 +95,19 @@ Implement a model that uses an LSTM to generate music.
 
 ![jazz](https://github.com/Sonia-96/Deep_Learning/blob/master/images/jazz.jpg)
 
-#### 10. [Emojify]()
+#### 10. [Emojify](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/Week2-Word%20Embeddings/Emojify/Emojify.ipynb)
 
+Build an emojifier which can add the most appropriate emoji to the end of a sentence. For example:
 
-#### 11. [Neural machine translation on dates]()
+- Input sentence: Congratulations on the promotion!
+- Output sentence: Congratulations on the promotion! 👍
 
+#### 11. [Neural machine translation on dates](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/Week3-Sequence%20Models/Attention%20Model/Neural%20Machine%20Translation%20on%20Dates.ipynb)
 
-#### 12. [Trigger word detection]()
+Use an attention model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-6-25").
 
+#### 12. [Trigger word detection](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/Week3-Sequence%20Models/Trigger%20Word%20Detection/Trigger%20Word%20Detection.ipynb)
 
+Trigger word detection is the technology that allows devices like Amazon Alexa, Google Home, Apple Siri, and Baidu DuerOS to wake up upon hearing a certain word. For this project, our trigger word will be "Activate". Every time it hears you say "activate", it will make a "chiming" sound.
+
+![trigger word](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/Week3-Sequence%20Models/Trigger%20Word%20Detection/images/label_diagram.png)
