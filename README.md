@@ -93,7 +93,7 @@ Implement a character level language model which can give names to dinosaurs wit
 
 Implement a model that uses an LSTM to generate music.
 
-![jazz](https://github.com/Sonia-96/Deep_Learning/blob/master/images/jazz.jpg)
+<img src="images/jazz.jpg" style="width:450;height:300px;">
 
 #### 10. [Emojify](https://github.com/Sonia-96/Deep_Learning/blob/master/Course5-Recurrent%20Neural%20Networks/Week2-Word%20Embeddings/Emojify/Emojify.ipynb)
 
